@@ -1,4 +1,5 @@
-# this repositiory is experiments on self distillation model
+## this repositiory is experiments on self distillation model
+this repository hierarchical loss in self distillation model.
 ## reference:
 1. [Self-Distillation with Meta Learning for Knowledge Graph Completion](https://aclanthology.org/2022.findings-emnlp.149/)
 2. [Revisiting Self Distillation](https://arxiv.org/abs/2206.08491)
