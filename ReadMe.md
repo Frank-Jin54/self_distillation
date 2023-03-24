@@ -12,3 +12,7 @@ Networks via Self Distillation](https://arxiv.org/abs/1905.08094)
 
 ## other reference
 [Kullback–Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
+
+## related repositories
+1. [K-Bert](https://github.com/autoliuweijie/K-BERT)
+2. [FastBert](https://github.com/autoliuweijie/FastBERT)
